@@ -27,6 +27,10 @@
   },
   "tabs": [
     {
+      "name": "Components",
+      "url": "components"
+    },
+    {
       "name": "API Reference",
       "url": "api-reference"
     }
