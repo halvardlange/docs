@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Pecuniary",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#001F3F",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:pecuniary@pm.me"
     }
   ],
   "topbarCtaButton": {
@@ -43,7 +43,7 @@
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "Block",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
