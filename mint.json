@@ -56,6 +56,7 @@
     {
       "group": "Get Started",
       "pages": [
+        "intro",
         "introduction",
         "quickstart",
         "development"
@@ -70,6 +71,12 @@
         "essentials/settings",
         "essentials/navigation",
         "essentials/reusable-snippets"
+      ]
+    },
+    {
+      "group": "Components",
+      "pages": [
+        "components/introduction"
       ]
     },
     {
